@@ -1,5 +1,5 @@
 export const RESUME_URL =
-  "";
+  "https://drive.google.com/file/d/1PJUdWXC-1p3rgcWkXZUhjHeQuIOeJGej/view?usp=sharing";
 
 export const profile = {
   name: "Noor Jahan",
