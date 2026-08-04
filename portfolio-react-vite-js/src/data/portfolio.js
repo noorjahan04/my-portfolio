@@ -154,7 +154,7 @@ export const projects = [
   {
     title: "Buildronics – E-Commerce Platform",
     description:
-      "A full-stack MERN e-commerce platform for electronics components featuring secure authentication, product management, shopping cart, order tracking, payment integration, and an admin dashboard.",
+      "A full-stack MERN e-commerce platform for electronics components featuring secure authentication, product management, shopping cart, order tracking, payment integration, an admin dashboard, responsive design, and real-time updates.",
     tech: [
       "React.js",
       "Node.js",
